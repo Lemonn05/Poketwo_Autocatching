@@ -5,7 +5,7 @@
 -**Use Auto_incense_catching.py to auto use incense and auto catch Pokemon.**
 
 
--**Use Auto_catching.py to auto catch Pokemon.**
+-**Use Auto_incense.py to auto buy incense.**
 
 
 -**Use Spam.py to increase spawn rate.**
